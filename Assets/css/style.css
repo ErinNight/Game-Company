@@ -94,6 +94,15 @@ footer {
     nav ul {
         flex-direction: column;
     }
+
+    .product-grid {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .product {
+        width: 80%;
+    }
 }
 
 .product-showcase {
@@ -189,7 +198,8 @@ form button:hover {
 }
 
 .product {
-    width: 250px;
+    margin-top: 50px;
+    width: 350px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -208,7 +218,7 @@ form button:hover {
 }
 
 .product img {
-    width: 250px;
+    width: 350px;
     border-radius: 8px;
     transition: transform 0.3s ease;
     box-shadow: 0 5px 5px #7c382c81;
