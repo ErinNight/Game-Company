@@ -45,6 +45,7 @@ nav a {
     transition: background-color 0.3s ease, transform 0.3s ease;
     box-shadow: 0 5px 5px #7c382c81;
     font-weight: bold;
+    cursor: pointer;
 
 }
 
@@ -78,6 +79,7 @@ main h1, main p {
     transition: background-color 0.3s ease, transform 0.3s ease;
     box-shadow: 0 5px 5px #2c7c4081;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .btn:hover {
