@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(to bottom,#fff5e7, #f1e0cc);
+    background: linear-gradient(to bottom,#fff5e7, #c9fbff);
     color: rgb(0, 0, 0);
     display: flex;
     flex-direction: column;
@@ -10,6 +10,10 @@ body {
 header {
     text-align: center;
     padding: 20px;
+    background-color: #fffef7;
+    padding: 50px;
+    border: 3px #068c9621 solid;
+
 }
 
 header img {
@@ -59,7 +63,7 @@ main h1, main p {
     color: #fff5e7;
     margin: 10px;
     padding: 10px;
-    background-color: #97594e81;
+    background-color: #4a4f6181;
     border-radius: 10px;
 }
 
@@ -67,12 +71,12 @@ main h1, main p {
     display: inline-block;
     margin-top: 20px;
     padding: 10px 20px;
-    background-color: #f3d8c9;
+    background-color: #daf3a0;
     color: #4e3806;
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s ease, transform 0.3s ease;
-    box-shadow: 0 5px 5px #7c382c81;
+    box-shadow: 0 5px 5px #2c7c4081;
     font-weight: bold;
 }
 
@@ -84,7 +88,7 @@ main h1, main p {
 footer {
     text-align: center;
     padding: 0px;
-    background-color: #7c382c81;
+    background-color: #2c7c4081;
     position: sticky;
     width: 100%;
     color: #fff5e7;
@@ -114,7 +118,7 @@ footer {
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    box-shadow: 0 8px 15px #7c382c81;
+    box-shadow: 0 5px 5px #9c9abb81;
     border-radius: 10px;
 }
 
@@ -151,7 +155,7 @@ footer {
     margin: 0 auto;
     padding: 20px;
     background-color: #f1efe9;
-    box-shadow: 0 8px 15px #7c382c81;
+    box-shadow: 0 5px 5px #9c9abb81;
 }
 
 h1 {
@@ -184,10 +188,10 @@ form button {
     font-size: 15px;
     padding: 5px 15px;
     margin-top: 20px;
-    background-color: #f3d8c9;
+    background-color: #daf3a0;
     border-radius: 5px;
     transition: background-color 0.3s ease, transform 0.3s ease;
-    box-shadow: 0 5px 5px #7c382c81;
+    box-shadow: 0 5px 5px #2c7c4081;
     font-weight: bold;
 
 }
@@ -221,12 +225,12 @@ form button:hover {
     width: 350px;
     border-radius: 8px;
     transition: transform 0.3s ease;
-    box-shadow: 0 5px 5px #7c382c81;
+    box-shadow: 0 5px 5px #312c7c81;
 }
 
 .product img:hover {
     transform: scale(1.03);
-    box-shadow: 0 5px 5px #7c382c81;
+    box-shadow: 0 5px 5px #312c7c81;
 }
 
 .product-name {
@@ -236,10 +240,10 @@ form button:hover {
     font-size: 15px;
     padding: 5px 15px;
     margin-top: 20px;
-    background-color: #f3d8c9;
+    background-color: #daf3a0;
     border-radius: 5px;
     transition: background-color 0.3s ease, transform 0.3s ease;
-    box-shadow: 0 5px 5px #7c382c81;
+    box-shadow: 0 5px 5px #2c7c4081;
     font-weight: bold;
 
 }
