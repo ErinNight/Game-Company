@@ -252,3 +252,71 @@ form button:hover {
     transform: scale(1.1);
     background-color: #f39c12;
 }
+
+.product-detail {
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.product-gallery {
+    flex: 1;
+    text-align: center;
+}
+
+.gallery-main {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 8px;
+    box-shadow: 0 5px 5px #312c7c81;
+}
+
+.gallery-thumbnail {
+    margin-top: 10px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.thumbnail {
+    width: 100px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: transform 0.2s;
+}
+
+.thumbnail:hover {
+    transform: scale(1.1);
+}
+
+.product-info {
+    flex: 1;
+}
+
+.product-info h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.product-info p {
+    margin: 10px;
+}
+
+.cart-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #daf3a0;
+    color: #4e3806;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 5px 5px #2c7c4081;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.cart-button:hover {
+    transform: scale(1.1);
+    background-color: #f39c12;
+}
