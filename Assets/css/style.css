@@ -304,6 +304,8 @@ form button:hover {
 
 .product-info {
     flex: 1;
+    max-width: 500px;
+    padding: 20px;
 }
 
 .product-info h1 {
