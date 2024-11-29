@@ -137,3 +137,10 @@ footer {
     }
 }
 
+.about-section, .contact-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f1efe9;
+    box-shadow: 0 8px 15px #7c382c81;
+}
