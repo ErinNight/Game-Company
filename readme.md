@@ -1,3 +1,17 @@
+<div align="center">
+  <a href="https://github.com/ErinNight">
+  <!-- TODO: If you want to add logo or banner you can add it here -->
+    <img src="/assets/img/LOGO.png" alt="LOGO" width="AUTO" height="AUTO">
+  </a>
+<!-- TODO: Change Title to the name of the title of your Project -->
+  <h3 align="center">GENSHIN IMPACT WEB</h3>
+</div>
+<!-- TODO: Make a short description -->
+<div align="center">
+A place to shop online for Genshin Impact Merchandise.
+</div>
+
+
 # Genshin Impact
 
 This project is a student-level basic understanding of creating a gaming company website using HTML and CSS.
