@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/ErinNight">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="/assets/img/Logo-Genshin.png" alt="LOGO" width="AUTO" height="AUTO">
+    <img src="/Assets/img/Logo-Genshin.png" alt="LOGO" width="AUTO" height="AUTO">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">GENSHIN IMPACT WEB</h3>
