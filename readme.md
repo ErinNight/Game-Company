@@ -12,3 +12,10 @@ This project is a student-level basic understanding of creating a gaming company
 - Responsive design
 - Interactive buttons
 - Separate pages for each product
+
+## Sources
+|-|-|-|
+|Item|Purpose|Source Link|
+|Logo|To act as the face of the page|https://www.freepnglogos.com/pics/logo-genshin-impact|
+|Hu Tao Figurine|Mock Merchandise|https://genshinfans.com/products/official-hu-tao-1-7-scale-figure
+
