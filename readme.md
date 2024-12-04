@@ -15,7 +15,7 @@ A place to shop online for Genshin Impact Merchandise.
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=RuthArabelle/WD-CLOTHING-WEBSITE-FINAL-TD21)
+![](https://visit-counter.vercel.app/counter.png?page=ErinNight/Game-Company-1-TD21)
 
 ---
 
